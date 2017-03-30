@@ -1,0 +1,28 @@
+#name h1 {
+	color: white;
+	font-size: bolder;
+	font-style: italic;
+	padding-left: 5%;
+}
+
+label {
+	font-size: 1.8em;
+}
+
+button {
+	padding: 2%;
+}
+
+#live {
+	background-color: lightgrey;
+	border-style: solid;	
+	border-width: 3px;
+	border-color: black;
+}
+
+#eaten {
+	background-color: lightgrey;
+	border-style: solid;	
+	border-width: 3px;
+	border-color: black;
+}
